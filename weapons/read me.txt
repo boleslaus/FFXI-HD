@@ -1,0 +1,28 @@
+Hd ffxi textures
+
+In the zip files are the modded files and the originals so they can be changed back
+and fourth easily, either manually copy the dats over one by one or drag the "ROM" 
+folder from the mod zip to the "FINAL FANTASY XI" folder on your hard drive. 
+
+Click yes on the confirmation prompts to overwrite the specific files 
+(it won't do anything but overwrite the specified files in the folders).
+
+Large number of files in this zip is because 
+a) each race and sometimes sex is a seperate dat due to animation differences.
+b) weapons that can be dual wielded need seperate dats for offhand due to 
+animation differences.
+So for instance Colada weapon alone = 14 dats.
+
+Weapons changed for all races
+Idris mainhand
+Colada
+Aegis normal and glowing
+All Blurred 99 melee weapons
+Blurred shield
+Blurred harp
+Blurred bow
+Blurred crossbow
+Alkalurops (sch staff)
+Lathi (blm staff)
+
+https://www.ffxiah.com/forum/topic/51963/ffxi-hd-mods/
