@@ -1,0 +1,13 @@
+Hd ffxi textures
+
+In the zip files are the modded files and the originals so they can be changed back
+and fourth easily, either manually copy the dats over one by one or drag the "ROM" and "ROM4"
+folders from the mod zip to the "FINAL FANTASY XI" on your hard drive. 
+
+Click yes on the confirmation prompts to overwrite the specific files 
+(it won't do anything but overwrite the specified files in the folders).
+
+https://www.ffxiah.com/forum/topic/51963/ffxi-hd-mods/
+
+
+
