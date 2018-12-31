@@ -1,0 +1,17 @@
+Hd ffxi textures
+
+In the zip files are the modded files and the originals so they can be changed back
+and fourth easily, either manually copy the dats over one by one or drag the "ROM" 
+folder from the mod zip to the "FINAL FANTASY XI" on your hard drive. 
+
+Click yes on the confirmation prompts to overwrite the specific files 
+(it won't do anything but overwrite the specified files in the folders).
+
+The files included are weaponskill dats that change Gekko for each race and 
+1 extra for each race that has another sex with different animations 
+(hume/elvaan m and f) and one for Ark Angel Galka.
+
+https://www.ffxiah.com/forum/topic/51963/ffxi-hd-mods/
+
+
+
