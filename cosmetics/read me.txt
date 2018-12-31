@@ -1,0 +1,18 @@
+Hd ffxi textures
+
+In the zip files are the modded files and the originals so they can be changed back
+and fourth easily, either manually copy the dats over one by one or drag the "ROM" 
+folder from the mod zip to the "FINAL FANTASY XI" on your hard drive. 
+
+Click yes on the confirmation prompts to overwrite the specific files 
+(it won't do anything but overwrite the specified files in the folders).
+
+Large number of files are due to each race (and in some cases sex) having
+duplicates of each weapon due to stance differences, also things like 
+sword and axe require a different dat for offhand and mainhand due to 
+animation differences.
+
+https://www.ffxiah.com/forum/topic/51963/ffxi-hd-mods/
+
+
+
